@@ -7,4 +7,4 @@ See a mistake? Want to add something? Open a ticket on [GitHub](https://github.c
 
 ### Database Schema
 
-![Database Schema](https://github.com/ednunezg/deadlyarchive-data/blob/main/_db_schema.png)
+![Database Schema](https://github.com/ednunezg/deadlyarchive-data/blob/main/_db_schema_v2.png)
